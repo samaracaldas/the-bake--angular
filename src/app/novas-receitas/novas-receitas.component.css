@@ -1,0 +1,12 @@
+.receitas-deliciosas {
+    background: url("src/assets/images/receitas-deliciosas.jpg") center no-repeat;
+    background-size: cover;
+}
+
+.between {
+    min-height: 65vh;
+    display: flex;
+    align-items: center;
+}
+
+/* Nosso Menu */
