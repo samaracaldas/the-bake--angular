@@ -9,13 +9,6 @@
 
 <h2>:page_with_curl: Description</h2>
 <p id="description">Neste projeto, eu refiz a landing page The Bake em Angular e TypeScript.</p>
-
-Tópicos Abordados:
-- Vanilla JavaScript
-- Keyframes
-- Scroll Reveal
-- Media Queries
-- Hover Effect Animations
   
 <h2>💻 Built with</h2>
 
