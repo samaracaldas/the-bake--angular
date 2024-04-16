@@ -8,7 +8,7 @@
 [https://samaracaldas.github.io/the-bake--angular/]((https://samaracaldas.github.io/the-bake--angular/))
 
 <h2>:page_with_curl: Description</h2>
-<p id="description">Neste projeto, eu refiz a landing page The Bake em Angular e TypeScript.</p>
+<p id="description">Neste projeto, eu programei uma landing page The Bake utilizando o framework Angular.</p>
   
 <h2>💻 Built with</h2>
 
