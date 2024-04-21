@@ -11,6 +11,7 @@ import { NossoMenuComponent } from './nosso-menu/nosso-menu.component';
 import { CombinacaoPerfeitaComponent } from './combinacao-perfeita/combinacao-perfeita.component';
 import { DeleiteCulinarioComponent } from './deleite-culinario/deleite-culinario.component';
 import { FooterComponent } from './footer/footer.component';
+import { NgOptimizedImage } from '@angular/common';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { FooterComponent } from './footer/footer.component';
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
-    AppRoutingModule
+    AppRoutingModule,
+    NgOptimizedImage
   ],
   providers: [],
   bootstrap: [AppComponent]
