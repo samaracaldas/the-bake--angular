@@ -2,11 +2,6 @@
 
 ![the-bake](https://github.com/samaracaldas/the-bake/assets/92318337/2c374cce-2db1-4187-bb85-6299eb502493)
 
-
-<h2>🚀 Demo</h2>
-
-[https://samaracaldas.github.io/the-bake--angular/]((https://samaracaldas.github.io/the-bake--angular/))
-
 <h2>:page_with_curl: Description</h2>
 <p id="description">Neste projeto, eu programei uma landing page The Bake utilizando o framework Angular.</p>
   
